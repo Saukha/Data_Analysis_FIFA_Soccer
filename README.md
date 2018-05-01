@@ -25,3 +25,5 @@ This is the ultimate Soccer database for data analysis and machine learning.
 2. Defending and goalkeeping attributes as a whole set players into subgroups
     a. Total Defending Score: marking, standing tackle and sliding tackle
     b. Total Goalkeeping Score: diving, handling, kicking, positioning and reflexes
+
+# PowerPoint: https://github.com/Saukha/Data_Analysis_FIFA_Soccer/blob/master/MajorProject_FIFA_Players.pptx
