@@ -1,7 +1,7 @@
 # Data Analysis
-## A Look at FIFA Soccer Team
+## A Look at FIFA Soccer Players Attributes
 
-This project is "Data Analysis using SQL."  Database was downloaded from below:
+This project uses Python with pandas, SQL and principal component analysis.  The database was downloaded from below:
 https://www.kaggle.com/hugomathien/soccer/data
 
 https://www.kaggle.com/dimarudov/data-analysis-using-sql/data
