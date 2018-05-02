@@ -15,10 +15,13 @@ This is the ultimate Soccer database for data analysis and machine learning.
  Players and Teams' attributes* sourced from EA Sports' FIFA video game series,
 
 ## Research Questions:
+
 1.Which player’s attribute contributes most to player’s overall rating
+
 2.What attributes set players apart
 
 ## Conclusion:
+
 1. Strong positive linear correlation between 
     a. Overall Rating and Potential (Coeff. = 0.7840)
     b. Overall Rating and Reactions (Coeff. = 0.7248)
@@ -26,4 +29,6 @@ This is the ultimate Soccer database for data analysis and machine learning.
     a. Total Defending Score: marking, standing tackle and sliding tackle
     b. Total Goalkeeping Score: diving, handling, kicking, positioning and reflexes
 
-# PowerPoint: https://github.com/Saukha/Data_Analysis_FIFA_Soccer/blob/master/MajorProject_FIFA_Players.pptx
+## PowerPoint: https://github.com/Saukha/Data_Analysis_FIFA_Soccer/blob/master/MajorProject_FIFA_Players.pptx
+
+
