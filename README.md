@@ -16,9 +16,9 @@ This is the ultimate Soccer database for data analysis and machine learning.
 
 ## Research Questions:
 
-1.Which player’s attribute contributes most to player’s overall rating
+1. Which player’s attribute contributes most to player’s overall rating
 
-2.What attributes set players apart
+2. What attributes set players apart
 
 ## Conclusion:
 
@@ -29,6 +29,6 @@ This is the ultimate Soccer database for data analysis and machine learning.
     a. Total Defending Score: marking, standing tackle and sliding tackle
     b. Total Goalkeeping Score: diving, handling, kicking, positioning and reflexes
 
-## PowerPoint: https://github.com/Saukha/Data_Analysis_FIFA_Soccer/blob/master/MajorProject_FIFA_Players.pptx
+### PowerPoint: https://github.com/Saukha/Data_Analysis_FIFA_Soccer/blob/master/MajorProject_FIFA_Players.pptx
 
 
