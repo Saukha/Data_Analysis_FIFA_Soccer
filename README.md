@@ -7,12 +7,12 @@ https://www.kaggle.com/hugomathien/soccer/data
 https://www.kaggle.com/dimarudov/data-analysis-using-sql/data
 This is the ultimate Soccer database for data analysis and machine learning.
 
- European Soccer Database (from Kaggle.com)
- +25,000 matches
- +10,000 players
- 11 European Countries with their lead championship
- Seasons 2008 to 2016
- Players and Teams' attributes* sourced from EA Sports' FIFA video game series,
+ European Soccer Database (from Kaggle.com) <br>
+ +25,000 matches <br>
+ +10,000 players <br>
+ 11 European Countries with their lead championship <br>
+ Seasons 2008 to 2016 <br>
+ Players and Teams' attributes* sourced from EA Sports' FIFA video game series <br>
 
 ## Research Questions:
 
@@ -29,6 +29,8 @@ This is the ultimate Soccer database for data analysis and machine learning.
     a. Total Defending Score: marking, standing tackle and sliding tackle
     b. Total Goalkeeping Score: diving, handling, kicking, positioning and reflexes
 
-### PowerPoint: click here
+### PowerPoint: Coming Soon
+
+### Report: Coming Soon
 
 
