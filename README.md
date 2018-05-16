@@ -16,18 +16,18 @@ This is the ultimate Soccer database for data analysis and machine learning.
 
 ## Research Questions:
 
-1. Which player’s attribute contributes most to player’s overall rating
+1. Which player’s attribute contributes most to player’s overall rating <br>
 
-2. What attributes set players apart
+2. What attributes set players apart <br>
 
 ## Conclusion:
 
-1. Strong positive linear correlation between 
-    a. Overall Rating and Potential (Coeff. = 0.7840)
-    b. Overall Rating and Reactions (Coeff. = 0.7248)
-2. Defending and goalkeeping attributes as a whole set players into subgroups
-    a. Total Defending Score: marking, standing tackle and sliding tackle
-    b. Total Goalkeeping Score: diving, handling, kicking, positioning and reflexes
+1. Strong positive linear correlation between <br>
+    a. Overall Rating and Potential (Coeff. = 0.7840) <br>
+    b. Overall Rating and Reactions (Coeff. = 0.7248) <br>
+2. Defending and goalkeeping attributes as a whole set players into subgroups <br>
+    a. Total Defending Score: marking, standing tackle and sliding tackle <br>
+    b. Total Goalkeeping Score: diving, handling, kicking, positioning and reflexes <br>
 
 ### PowerPoint: Coming Soon
 
