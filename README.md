@@ -31,6 +31,6 @@ This is the ultimate Soccer database for data analysis and machine learning.
 
 ### PowerPoint: Coming Soon
 
-### Report: Coming Soon
+### Final Report: https://saukha.weebly.com/uploads/1/1/8/0/118025626/major_project_report_05212018.pdf
 
 
