@@ -20,7 +20,7 @@ This is the ultimate Soccer database for data analysis and machine learning.
 
 2. What attributes set players apart <br>
 
-## Conclusion:
+## Findings:
 
 1. Strong positive linear correlation between <br>
     a. Overall Rating and Potential (Coeff. = 0.7840) <br>
