@@ -29,7 +29,7 @@ This is the ultimate Soccer database for data analysis and machine learning.
     a. Total Defending Score: marking, standing tackle and sliding tackle <br>
     b. Total Goalkeeping Score: diving, handling, kicking, positioning and reflexes <br>
 
-### PowerPoint: Coming Soon
+### PowerPoint: https://github.com/Saukha/Data_Analysis_FIFA_Soccer/blob/master/majorproject_fifa_players_powerpoint_v5.pdf
 
 ### Final Report: https://saukha.weebly.com/uploads/1/1/8/0/118025626/major_project_report_05212018.pdf
 
